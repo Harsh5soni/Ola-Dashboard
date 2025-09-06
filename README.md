@@ -77,3 +77,6 @@ Gain insights into ride booking patterns and cancellation trends.
 📌 Conclusion
 
 This project helps visualize Ola’s booking and cancellation trends effectively. It can be used by business analysts, operations managers, or data enthusiasts to identify patterns, reduce cancellations, and improve customer experience.
+
+Screenshot
+https://github.com/Harsh5soni/Ola-Dashboard/blob/main/Screenshot%202025-09-06%20062808.png
